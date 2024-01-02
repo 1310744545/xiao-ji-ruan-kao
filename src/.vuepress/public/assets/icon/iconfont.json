@@ -1,0 +1,37 @@
+{
+  "id": "4394838",
+  "name": "小鸡软考",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "683287",
+      "name": "书",
+      "font_class": "shu",
+      "unicode": "e662",
+      "unicode_decimal": 58978
+    },
+    {
+      "icon_id": "16728187",
+      "name": "指南",
+      "font_class": "zhinan",
+      "unicode": "e715",
+      "unicode_decimal": 59157
+    },
+    {
+      "icon_id": "17605456",
+      "name": "知识",
+      "font_class": "zhishi",
+      "unicode": "e813",
+      "unicode_decimal": 59411
+    },
+    {
+      "icon_id": "1261804",
+      "name": "history",
+      "font_class": "history",
+      "unicode": "e6ad",
+      "unicode_decimal": 59053
+    }
+  ]
+}
