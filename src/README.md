@@ -16,11 +16,11 @@ actions:
     type: primary
 
   - text: 历年真题
-    link: .//docs/历年真题/
+    link: ./历年真题/
   - text: 官方教材
-    link: .//docs/官方教材/
+    link: ./官方教材/
   - text: 背诵知识
-    link: .//docs/背诵知识/
+    link: ./背诵知识/
 # highlights:
   # - header: Easy to install
     # image: /assets/image/box.svg
@@ -125,7 +125,7 @@ actions:
 
   #     - title: Include snippet Support
   #       icon: fab fa-markdown
-  #       details: split your /docs with different parts and import them in Markdown
+  #       details: split your  with different parts and import them in Markdown
   #       link: https://theme-hope.vuejs.press/guide/markdown/include.html
 
   #     - title: Playground Support
@@ -201,7 +201,7 @@ actions:
 
   #     - title: Search
   #       icon: search
-  #       details: Support /docsearch and client search
+  #       details: Support earch and client search
   #       link: https://theme-hope.vuejs.press/guide/feature/search.html
 
   #     - title: Copy Code Blocks
@@ -278,25 +278,25 @@ For related descriptions of configuration items, please see [Project HomePage La
 ## 各科目资料导航及视频教程链接
 注：所有科目的真题、答案、解析已整理完毕，教材和背诵知识点正在整理中
 ### 高级
-信息系统项目管理师：[历年真题](/docs/历年真题/高级/信息系统项目管理师) [官方教材](/docs/官方教材/高级/信息系统项目管理师) [背诵知识](/docs/背诵知识/高级/信息系统项目管理师) [视频教程](https://www.aliyundrive.com/s/MaCMVSxzFvS)\
-系统架构设计师：[历年真题](/docs/历年真题/高级/系统架构设计师) [官方教材](/docs/官方教材/高级/系统架构设计师) [背诵知识](/docs/背诵知识/高级/系统架构设计师) [视频教程](https://www.aliyundrive.com/s/oESNwsmzy68)\
-系统分析师：[历年真题](/docs/历年真题/高级/系统分析师) [官方教材](/docs/官方教材/高级/系统分析师) [背诵知识](/docs/背诵知识/高级/系统分析师) [视频教程](https://www.aliyundrive.com/s/uY8EcSZxcBf)\
-网络规划设计师：[历年真题](/docs/历年真题/高级/网络规划设计师) [官方教材](/docs/官方教材/高级/网络规划设计师) [背诵知识](/docs/背诵知识/高级/网络规划设计师) [视频教程](https://www.aliyundrive.com/s/ur2mN5Vttt8)\
-系统规划与管理师：[历年真题](/docs/历年真题/高级/系统规划与管理师) [官方教材](/docs/官方教材/高级/系统规划与管理师) [背诵知识](/docs/背诵知识/高级/系统规划与管理师) [视频教程](https://www.aliyundrive.com/s/Qzma5AmYg6U)
+信息系统项目管理师：[历年真题](/历年真题/高级/信息系统项目管理师) [官方教材](/官方教材/高级/信息系统项目管理师) [背诵知识](/背诵知识/高级/信息系统项目管理师) [视频教程](https://www.aliyundrive.com/s/MaCMVSxzFvS)\
+系统架构设计师：[历年真题](/历年真题/高级/系统架构设计师) [官方教材](/官方教材/高级/系统架构设计师) [背诵知识](/背诵知识/高级/系统架构设计师) [视频教程](https://www.aliyundrive.com/s/oESNwsmzy68)\
+系统分析师：[历年真题](/历年真题/高级/系统分析师) [官方教材](/官方教材/高级/系统分析师) [背诵知识](/背诵知识/高级/系统分析师) [视频教程](https://www.aliyundrive.com/s/uY8EcSZxcBf)\
+网络规划设计师：[历年真题](/历年真题/高级/网络规划设计师) [官方教材](/官方教材/高级/网络规划设计师) [背诵知识](/背诵知识/高级/网络规划设计师) [视频教程](https://www.aliyundrive.com/s/ur2mN5Vttt8)\
+系统规划与管理师：[历年真题](/历年真题/高级/系统规划与管理师) [官方教材](/官方教材/高级/系统规划与管理师) [背诵知识](/背诵知识/高级/系统规划与管理师) [视频教程](https://www.aliyundrive.com/s/Qzma5AmYg6U)
 ### 中级
-软件设计师：[历年真题](/docs/历年真题/中级/软件设计师) [官方教材](/docs/官方教材/中级/软件设计师) [背诵知识](/docs/背诵知识/中级/软件设计师) [视频教程](https://www.aliyundrive.com/s/t1e5wamAAri)\
-系统集成项目管理工程师：[历年真题](/docs/历年真题/中级/系统集成项目管理工程师) [官方教材](/docs/官方教材/中级/系统集成项目管理工程师) [背诵知识](/docs/背诵知识/中级/系统集成项目管理工程师) [视频教程](https://www.aliyundrive.com/s/aBMyZMeBs8e)\
-网络工程师：[历年真题](/docs/历年真题/中级/网络工程师) [官方教材](/docs/官方教材/中级/网络工程师) [背诵知识](/docs/背诵知识/中级/网络工程师) [视频教程](https://www.aliyundrive.com/s/USw4S2UgDDR)\
-数据库系统工程师：[历年真题](/docs/历年真题/中级/数据库系统工程师) [官方教材](/docs/官方教材/中级/数据库系统工程师) [背诵知识](/docs/背诵知识/中级/数据库系统工程师) [视频教程](https://www.aliyundrive.com/s/BQQucz76HNF)\
-信息安全工程师：[历年真题](/docs/历年真题/中级/信息安全工程师) [官方教材](/docs/官方教材/中级/信息安全工程师) [背诵知识](/docs/背诵知识/中级/信息安全工程师) [视频教程](https://www.aliyundrive.com/s/EGBJTQNpf1K)\
-软件评测师：[历年真题](/docs/历年真题/中级/软件评测师) [官方教材](/docs/官方教材/中级/软件评测师) [背诵知识](/docs/背诵知识/中级/软件评测师) [视频教程](https://www.aliyundrive.com/s/xDq7vAEBrVL)\
-信息系统管理工程师：[历年真题](/docs/历年真题/中级/信息系统管理工程师) [官方教材](/docs/官方教材/高级/信息系统管理工程师) [背诵知识](/docs/背诵知识/中级/信息系统管理工程师) [视频教程](https://www.aliyundrive.com/s/7PWZmLacV3X)\
-信息系统监理师：[历年真题](/docs/历年真题/中级/信息系统监理师) [官方教材](/docs/官方教材/中级/信息系统监理师) [背诵知识](/docs/背诵知识/中级/信息系统监理师) [视频教程](https://www.aliyundrive.com/s/LJLPRgVNQkV)\
-多媒体应用设计师：[历年真题](/docs/历年真题/中级/多媒体应用设计师) [官方教材](/docs/官方教材/中级/多媒体应用设计师) [背诵知识](/docs/背诵知识/中级/多媒体应用设计师) \
-嵌入式系统设计师：[历年真题](/docs/历年真题/中级/嵌入式系统设计师) [官方教材](/docs/官方教材/中级/嵌入式系统设计师) [背诵知识](/docs/背诵知识/中级/嵌入式系统设计师) [视频教程](https://www.aliyundrive.com/s/pq5KhJQAT8o)\
-电子商务设计师：[历年真题](/docs/历年真题/中级/电子商务设计师) [官方教材](/docs/官方教材/中级/电子商务设计师) [背诵知识](/docs/背诵知识/中级/电子商务设计师) [视频教程](https://www.aliyundrive.com/s/zXEujU5sXRw)
+软件设计师：[历年真题](/历年真题/中级/软件设计师) [官方教材](/官方教材/中级/软件设计师) [背诵知识](/背诵知识/中级/软件设计师) [视频教程](https://www.aliyundrive.com/s/t1e5wamAAri)\
+系统集成项目管理工程师：[历年真题](/历年真题/中级/系统集成项目管理工程师) [官方教材](/官方教材/中级/系统集成项目管理工程师) [背诵知识](/背诵知识/中级/系统集成项目管理工程师) [视频教程](https://www.aliyundrive.com/s/aBMyZMeBs8e)\
+网络工程师：[历年真题](/历年真题/中级/网络工程师) [官方教材](/官方教材/中级/网络工程师) [背诵知识](/背诵知识/中级/网络工程师) [视频教程](https://www.aliyundrive.com/s/USw4S2UgDDR)\
+数据库系统工程师：[历年真题](/历年真题/中级/数据库系统工程师) [官方教材](/官方教材/中级/数据库系统工程师) [背诵知识](/背诵知识/中级/数据库系统工程师) [视频教程](https://www.aliyundrive.com/s/BQQucz76HNF)\
+信息安全工程师：[历年真题](/历年真题/中级/信息安全工程师) [官方教材](/官方教材/中级/信息安全工程师) [背诵知识](/背诵知识/中级/信息安全工程师) [视频教程](https://www.aliyundrive.com/s/EGBJTQNpf1K)\
+软件评测师：[历年真题](/历年真题/中级/软件评测师) [官方教材](/官方教材/中级/软件评测师) [背诵知识](/背诵知识/中级/软件评测师) [视频教程](https://www.aliyundrive.com/s/xDq7vAEBrVL)\
+信息系统管理工程师：[历年真题](/历年真题/中级/信息系统管理工程师) [官方教材](/官方教材/高级/信息系统管理工程师) [背诵知识](/背诵知识/中级/信息系统管理工程师) [视频教程](https://www.aliyundrive.com/s/7PWZmLacV3X)\
+信息系统监理师：[历年真题](/历年真题/中级/信息系统监理师) [官方教材](/官方教材/中级/信息系统监理师) [背诵知识](/背诵知识/中级/信息系统监理师) [视频教程](https://www.aliyundrive.com/s/LJLPRgVNQkV)\
+多媒体应用设计师：[历年真题](/历年真题/中级/多媒体应用设计师) [官方教材](/官方教材/中级/多媒体应用设计师) [背诵知识](/背诵知识/中级/多媒体应用设计师) \
+嵌入式系统设计师：[历年真题](/历年真题/中级/嵌入式系统设计师) [官方教材](/官方教材/中级/嵌入式系统设计师) [背诵知识](/背诵知识/中级/嵌入式系统设计师) [视频教程](https://www.aliyundrive.com/s/pq5KhJQAT8o)\
+电子商务设计师：[历年真题](/历年真题/中级/电子商务设计师) [官方教材](/官方教材/中级/电子商务设计师) [背诵知识](/背诵知识/中级/电子商务设计师) [视频教程](https://www.aliyundrive.com/s/zXEujU5sXRw)
 ### 初级
-信息处理技术员：[历年真题](/docs/历年真题/初级/信息处理技术员) [官方教材](/docs/官方教材/初级/信息处理技术员) [背诵知识](/docs/背诵知识/初级/信息处理技术员) [视频教程](https://www.aliyundrive.com/s/B6v2MBjCVVQ)\
-程序员：[历年真题](/docs/历年真题/初级/程序员) [官方教材](/docs/官方教材/初级/程序员) [背诵知识](/docs/背诵知识/初级/程序员) [视频教程](https://www.aliyundrive.com/s/Af7md47BbV9)\
-网络管理员：[历年真题](/docs/历年真题/初级/网络管理员) [官方教材](/docs/官方教材/初级/网络管理员) [背诵知识](/docs/背诵知识/初级/网络管理员) [视频教程](https://www.aliyundrive.com/s/hNqC1Urp9vg)\
-信息系统运行管理员：[历年真题](/docs/历年真题/初级/信息系统运行管理员) [官方教材](/docs/官方教材/初级/信息系统运行管理员) [背诵知识](/docs/背诵知识/初级/信息系统运行管理员) 
+信息处理技术员：[历年真题](/历年真题/初级/信息处理技术员) [官方教材](/官方教材/初级/信息处理技术员) [背诵知识](/背诵知识/初级/信息处理技术员) [视频教程](https://www.aliyundrive.com/s/B6v2MBjCVVQ)\
+程序员：[历年真题](/历年真题/初级/程序员) [官方教材](/官方教材/初级/程序员) [背诵知识](/背诵知识/初级/程序员) [视频教程](https://www.aliyundrive.com/s/Af7md47BbV9)\
+网络管理员：[历年真题](/历年真题/初级/网络管理员) [官方教材](/官方教材/初级/网络管理员) [背诵知识](/背诵知识/初级/网络管理员) [视频教程](https://www.aliyundrive.com/s/hNqC1Urp9vg)\
+信息系统运行管理员：[历年真题](/历年真题/初级/信息系统运行管理员) [官方教材](/官方教材/初级/信息系统运行管理员) [背诵知识](/背诵知识/初级/信息系统运行管理员) 

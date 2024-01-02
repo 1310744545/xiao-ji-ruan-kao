@@ -10,7 +10,7 @@ export const zhNavbar = navbar([
   {
     text: "历年真题",
     icon: "history",
-    prefix: "/docs/历年真题",
+    prefix: "/历年真题",
     children: [
       {
         text: "高级",
@@ -58,7 +58,7 @@ export const zhNavbar = navbar([
   {
     text: "官方教材",
     icon: "shu",
-    prefix: "/docs/官方教材/",
+    prefix: "/官方教材/",
     children: [
       {
         text: "高级",
@@ -106,7 +106,7 @@ export const zhNavbar = navbar([
   {
     text: "背诵知识",
     icon: "zhishi",
-    prefix: "/docs/背诵知识/",
+    prefix: "/背诵知识/",
     children: [
       {
         text: "高级",

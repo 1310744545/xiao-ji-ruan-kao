@@ -14,7 +14,9 @@ export default hopeTheme({
   logo: "/xiaoji.jpg",
   repo: "vuepress-theme-hope/vuepress-theme-hope",
   print: false,
+  editLink: false,
   docsDir: "src",
+  repoDisplay: false,
   iconAssets: "/assets/icon/iconfont.css",
   iconPrefix: "iconfont icon-",
   locales: {
