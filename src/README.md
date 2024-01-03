@@ -275,6 +275,13 @@ This is an example of a project homepage. You can place your main content here.
 To use this layout, you need to set `home: true` in the page front matter.
 
 For related descriptions of configuration items, please see [Project HomePage Layout Config](https://theme-hope.vuejs.press/guide/layout/home/). -->
+
+> [!tip]
+> 在线刷题网站、在线刷题小程序请往下看，本页提供基本的文档资料导航
+
+## 在线刷题网站
+注：在线刷题网站请使用电脑浏览器打开，未作移动端适配\
+主域名：[www.xkxxkx.cn](https://www.xkxxkx.cn)  备用域名：[www.xiaojiji.icu](https://www.xiaojiji.icu)
 ## 各科目资料导航及视频教程链接
 注：所有科目的真题、答案、解析已整理完毕，教材和背诵知识点正在整理中
 ### 高级
@@ -299,4 +306,9 @@ For related descriptions of configuration items, please see [Project HomePage La
 信息处理技术员：[历年真题](/历年真题/初级/信息处理技术员) [官方教材](/官方教材/初级/信息处理技术员) [背诵知识](/背诵知识/初级/信息处理技术员) [视频教程](https://www.aliyundrive.com/s/B6v2MBjCVVQ)\
 程序员：[历年真题](/历年真题/初级/程序员) [官方教材](/官方教材/初级/程序员) [背诵知识](/背诵知识/初级/程序员) [视频教程](https://www.aliyundrive.com/s/Af7md47BbV9)\
 网络管理员：[历年真题](/历年真题/初级/网络管理员) [官方教材](/官方教材/初级/网络管理员) [背诵知识](/背诵知识/初级/网络管理员) [视频教程](https://www.aliyundrive.com/s/hNqC1Urp9vg)\
-信息系统运行管理员：[历年真题](/历年真题/初级/信息系统运行管理员) [官方教材](/官方教材/初级/信息系统运行管理员) [背诵知识](/背诵知识/初级/信息系统运行管理员) 
+信息系统运行管理员：[历年真题](/历年真题/初级/信息系统运行管理员) [官方教材](/官方教材/初级/信息系统运行管理员) [背诵知识](/背诵知识/初级/信息系统运行管理员)
+## 刷题小程序 资料公众号 QQ交流群 个人微信
+![Alt](https://www.xkxxkx.cn/file/doc/小程序.png =408x150)
+![Alt](https://www.xkxxkx.cn/file/doc/公众号.png =408x150)
+![Alt](https://www.xkxxkx.cn/file/doc/qq群.png =150x150)
+![Alt](https://www.xkxxkx.cn/file/doc/我.jpg =150x150)
