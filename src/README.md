@@ -8,7 +8,7 @@ heroImage: /xiaoji.jpg
 bgImageStyle:
   background-attachment: fixed
 heroText: 小鸡软考
-tagline: 为你提供详细全面的软考资料，助你通关软考，目前所有科目的真题、答案、解析已整理完毕，可以进行在线阅读，教材和知识点汇总正在整理中。
+tagline: 为你提供详细全面的软考资料，助你通关软考，目前所有科目的真题、答案、解析已整理完毕，可在线阅读，教材和知识点汇总正在整理中，如有错误请联系改正，后续会开源大家可以一起修改编辑。
 actions:
   - text: 开始阅读
     icon: lightbulb
@@ -277,7 +277,7 @@ To use this layout, you need to set `home: true` in the page front matter.
 For related descriptions of configuration items, please see [Project HomePage Layout Config](https://theme-hope.vuejs.press/guide/layout/home/). -->
 
 > [!tip]
-> 在线刷题网站、在线刷题小程序请往下看，本页提供基本的文档资料导航
+> 在线刷题网站、在线刷题小程序请往下看，本页提供基本的文档资料导航，真题的答案和解析在试题最下方！！！
 
 ## 在线刷题网站
 注：在线刷题网站请使用电脑浏览器打开，未作移动端适配\
